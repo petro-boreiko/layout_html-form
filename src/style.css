@@ -1,32 +1,14 @@
 /* styles go here */
 
-fieldset {
+.fieldset {
   margin-bottom: 20px;
-  padding: 0 12px;
 }
 
 .label {
   display: block;
-  margin: 10px 0;
-  padding: 0;
+  margin-bottom: 10px;
 }
 
-legend {
-  margin: 1px 0;
-}
-
-.text {
-  margin-top: 5px;
-}
-
-.email {
-  margin-top: 4px;
-}
-
-.cats {
-  margin-top: 5px;
-}
-
-.comments {
-  margin-top: 4px;
+.last {
+  margin-bottom: 0;
 }
